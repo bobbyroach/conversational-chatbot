@@ -1,4 +1,4 @@
-This is a turn-based conversational chatbot made from scratch with Tensorflow.
+## Turn-based Conversational Chatbot from Scratch with Tensorflow
 
 ### Data 
 For this project, I used a combination of four different dialog datasets: 
