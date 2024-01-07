@@ -24,33 +24,43 @@ For the model, I used a keras encoder and decorder sequential model. Both the en
 Here's a conversation with the bot: 
 
 User: hi
+
 Bot: hi 
  
 User: hello
+
 Bot: hello 
  
 User: what is up
+
 Bot: nothing much what is going on 
  
 User: what up dude
+
 Bot: well i am going to be back
  
 User: i love you
+
 Bot: i love you too 
  
 User: aww thanks
+
 Bot: i am not sure i am not sure
  
 User: thank you
+
 Bot: i am so happy for you
  
 User: happy for me?
+
 Bot: i am not sure i am not sure 
  
 User: not sure about what
+
 Bot: i am not sure
  
 User: well bye now
+
 Bot: i am not not sure i am not sure
 
 -----------------------------------
