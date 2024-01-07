@@ -52,7 +52,8 @@ Bot: i am not sure
  
 User: well bye now
 Bot: i am not not sure i am not sure
- 
+
+-----------------------------------
  
 This model definitely shows some promise, as it can correctly respond to some basic phrases, like "I love you" and "what is up." Even when it responds incorrectly, the sentences are still comprehensive, which is good. Also, when it doesn't know how to respond to a statement, it does a good job of saying that it is not sure
 
@@ -61,47 +62,3 @@ This model's performance can only be increased in a few ways. Increasing the tra
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- -
- ?
- ++
